@@ -6,4 +6,3 @@ This repository contains a Power BI dashboard that visualizes the distribution a
 ### Clustered Bar Chart: Comparison of different beneficiary categories.
 ### Treemap: Hierarchical distribution of beneficiaries.
 ### Donut Chart: Proportion of different beneficiary categories.
-### Funnel Chart: Distribution across various stages/categories.
